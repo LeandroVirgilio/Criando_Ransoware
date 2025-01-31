@@ -1,4 +1,4 @@
-## Novo# Encriptografar arquivo
+# Encriptografar arquivo
 Objetivo é encriptograr e descriptografar um arquivo para quando alguém abrir não conseguir entender/identificar do que se trata.
 
 ### Ferramentas utilizadas:
